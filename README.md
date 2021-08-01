@@ -1,4 +1,4 @@
-I automated 5 different APIs which are "createBooking", "getBookingById", "partialUpdateBooking", "deleteBooking" and "getBookingIds".
+I automated 5 different APIs which are "createBooking", "getBookingById", "partialUpdateBooking", "deleteBooking" and "getBookingIds" and there are Steps package
 
 createBooking - Test code creates a booking and checks for if the API returns 200 OK.
 
